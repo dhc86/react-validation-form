@@ -1,3 +1,1 @@
-REACT SKELETON
-
-npm start!
+Basic Validation form Using REACT and Bootstrap!
